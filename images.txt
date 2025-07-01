@@ -9,3 +9,4 @@ ghcr.io/danny-avila/librechat-rag-api-dev-lite
 getmeili/meilisearch:v1.12.3
 ankane/pgvector
 mongo
+ducktors/turborepo-remote-cache:2.6.0
