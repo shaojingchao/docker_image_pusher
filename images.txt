@@ -10,3 +10,4 @@ getmeili/meilisearch:v1.12.3
 ankane/pgvector
 mongo
 ducktors/turborepo-remote-cache:2.6.0
+1247537710/gpt-web:main
