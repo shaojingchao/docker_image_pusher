@@ -3,4 +3,4 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-1247537710/gpt-web:v3.0.5
+1247537710/gpt-web:v3.0.6
