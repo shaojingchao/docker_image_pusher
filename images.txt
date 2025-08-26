@@ -3,5 +3,4 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-verdaccio/verdaccio:6.1.6
-verdaccio/verdaccio:v6.1.6
+gitlab/gitlab-runner:alpine-v14.10.1
