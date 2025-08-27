@@ -3,4 +3,4 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-alpine:3.22.1
+registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-f761588f
