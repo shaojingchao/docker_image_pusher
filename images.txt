@@ -3,4 +3,4 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-1247537710/node-runner:22-pnpm10.18.3
+cloudreve/cloudreve:4.10.1
